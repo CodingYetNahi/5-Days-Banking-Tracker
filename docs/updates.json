@@ -1,0 +1,53 @@
+{
+  "updatedAt": "2026-09-08T18:00:00Z",
+  "items": [
+    {
+      "date": "2026-09-02",
+      "type": "Strike announcement",
+      "title": "UFBU announces September action over five-day banking demand",
+      "summary": "UFBU announced escalating strike action beginning 11 September, with five-day banking among its principal demands. This shows that implementation remained pending.",
+      "source": "The Indian Express",
+      "url": "https://tamil.indianexpress.com/business/bank-strike-september-11-indian-banks-association-5-day-work-week-in-banks-12482729"
+    },
+    {
+      "date": "2026-08-20",
+      "type": "Union circular",
+      "title": "AIBOC reports nationwide demonstrations demanding five-day banking",
+      "summary": "AIBOC reported UFBU demonstrations held on 12 August seeking immediate implementation of the five-day banking commitment.",
+      "source": "AIBOC",
+      "url": "https://aiboc.org/"
+    },
+    {
+      "date": "2026-08-06",
+      "type": "Union circular",
+      "title": "UFBU calls nationwide demonstrations for 12 August",
+      "summary": "AIBEA published the UFBU call for demonstrations demanding implementation of five-day banking.",
+      "source": "AIBEA",
+      "url": "https://aibea.in/"
+    },
+    {
+      "date": "2026-06-26",
+      "type": "Union update",
+      "title": "UFBU discusses PLI and five-day banking",
+      "summary": "UFBU circular 2026-15 recorded continuing discussions and follow-up. No official implementation notification was reported.",
+      "source": "Federation of Bank of India Staff Unions",
+      "url": "https://www.federationboisu.com/"
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Industrial action",
+      "title": "Nationwide bank strike held over five-day week demand",
+      "summary": "Bank employees observed a nationwide strike seeking implementation of a five-day work week, indicating that approval was still pending.",
+      "source": "UNI Global Union",
+      "url": "https://uniglobalunion.org/news/india-bank-strike-2026/"
+    },
+    {
+      "date": "2025-07-28",
+      "type": "Parliamentary reply",
+      "title": "Government acknowledges IBA proposal on all Saturdays",
+      "summary": "The Finance Ministry told the Lok Sabha that IBA had proposed declaring all Saturdays as banking holidays; the reply did not announce approval or an implementation date.",
+      "source": "Parliament of India",
+      "url": "https://sansad.in/"
+    }
+  ]
+}
