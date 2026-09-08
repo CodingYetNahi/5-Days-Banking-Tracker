@@ -1,12 +1,12 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="description" content="Live tracker for implementation of a five-day banking week in India">
-<title>5-Day Banking Tracker</title><link rel="stylesheet" href="styles.css"></head>
-<body><a class="skip" href="#main">Skip to content</a>
-<header><a class="brand" href="./">5-Day Banking Tracker</a><nav aria-label="Main navigation"><a href="./">Dashboard</a><a href="blog.html">Blogs</a><button id="theme" type="button" aria-label="Toggle dark mode">◐</button></nav></header>
-<main id="main"><section class="hero"><div><p class="eyebrow">India banking reform watch</p><h1>How long have bankers been waiting?</h1><p>The counter runs from 4 September 2024 at 10:00 AM IST, the configured reference time for the 12th Bipartite Settlement follow-up.</p><span id="status" class="badge">Checking status…</span></div>
-<div class="timer-card"><p id="reference">Since 4 September 2024, 10:00 AM IST</p><div id="timer" class="timer" aria-live="off"></div><p id="days-total"></p></div></section>
-<section><div class="section-heading"><div><p class="eyebrow">Latest developments</p><h2>Recent 5-day banking updates</h2></div><a href="blog.html">View all blogs →</a></div><div id="latest" class="grid"><p>Loading updates…</p></div></section>
-<section class="card"><h2>Tracker policy</h2><p>News, union circulars and reports are listed as developments. The timer will stop only after an official government notification implements five-day banking.</p><p id="last-updated" class="meta"></p></section></main>
-<footer><p>Independent public-information tracker · Sources linked with every update</p></footer>
+<meta name="theme-color" content="#0a0714"><meta name="description" content="Live tracker for implementation of a five-day banking week in India">
+<title>5-Day Banking Tracker</title><script>document.documentElement.dataset.theme=localStorage.getItem('theme')||'dark'</script><link rel="stylesheet" href="styles.css"></head>
+<body><a class="skip" href="#main">Skip to content</a><div class="aurora aurora-one"></div><div class="aurora aurora-two"></div>
+<header><a class="brand" href="./"><span class="brand-mark">5D</span><span>Banking Tracker</span></a><nav aria-label="Main navigation"><a href="./" aria-current="page">Dashboard</a><a href="blog.html">Blogs</a><button id="theme" class="theme-toggle" type="button" aria-label="Toggle colour theme"><span aria-hidden="true">☀</span></button></nav></header>
+<main id="main"><section class="hero reveal"><div class="hero-copy"><p class="eyebrow"><span class="live-dot"></span>Live reform monitor</p><h1>The wait has<br><span>a clock.</span></h1><p class="lede">Tracking the journey towards a five-day banking week in India—second by second, update by update.</p><span id="status" class="status-pill">Checking status…</span></div>
+<div class="timer-shell"><div class="timer-top"><div><p class="kicker">Time elapsed</p><p id="reference">Since 4 September 2024 · 10:00 AM IST</p></div><span class="signal" title="Live timer">LIVE</span></div><div id="timer" class="timer" aria-label="Elapsed time"></div><div class="timer-foot"><span id="days-total"></span><span>Awaiting official notification</span></div></div></section>
+<section class="updates-section reveal"><div class="section-heading"><div><p class="eyebrow">The latest</p><h2>What’s happening now</h2></div><a class="arrow-link" href="blog.html">All updates <span>↗</span></a></div><div id="latest" class="grid"><div class="loading-card">Loading verified updates…</div></div></section>
+<section class="policy reveal"><div class="policy-icon">i</div><div><h2>Signal, not speculation.</h2><p>Reports and union circulars are developments—not confirmation. This clock stops only after an official Government of India notification implements five-day banking.</p><p id="last-updated" class="meta"></p></div></section></main>
+<footer><a class="brand" href="./"><span class="brand-mark">5D</span><span>Banking Tracker</span></a><p>Independent tracker · Every update links to its source</p></footer>
 <script src="timer.js"></script><script src="static-app.js"></script></body></html>
