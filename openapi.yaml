@@ -1,0 +1,26 @@
+openapi: 3.1.0
+info: {title: Banking Reform Tracker API, version: 1.0.0, description: Public information and cookie-authenticated local administration API}
+servers: [{url: /api}]
+paths:
+  /timer:
+    get: {summary: Read timer configuration, responses: {'200': {description: Current configuration}}}
+  /posts:
+    get:
+      summary: List approved posts
+      parameters: [{in: query, name: page, schema: {type: integer}}, {in: query, name: limit, schema: {type: integer, maximum: 50}}, {in: query, name: search, schema: {type: string}}, {in: query, name: category, schema: {type: string}}]
+      responses: {'200': {description: Paginated posts}}
+  /posts/{id}:
+    get: {summary: Read approved post by ID or slug, parameters: [{in: path, name: id, required: true, schema: {type: string}}], responses: {'200': {description: Post}, '404': {description: Missing}}}
+  /milestones: {get: {summary: List milestones, responses: {'200': {description: List}}}}
+  /timeline: {get: {summary: List timeline entries, responses: {'200': {description: List}}}}
+  /resources: {get: {summary: List resources, responses: {'200': {description: List}}}}
+  /faqs: {get: {summary: List FAQs, responses: {'200': {description: List}}}}
+  /dashboard: {get: {summary: Read privacy-safe counts and local quote, responses: {'200': {description: Summary}}}}
+  /tips:
+    post: {summary: Submit a locally stored tip, requestBody: {required: true, content: {application/json: {schema: {type: object, required: [message], properties: {name: {type: string}, email: {type: string}, message: {type: string, minLength: 10}}}}}}, responses: {'201': {description: Stored for moderation}, '400': {description: Invalid}}}
+  /auth/login: {post: {summary: Authenticate local administrator and set HttpOnly JWT cookie, responses: {'200': {description: Authenticated}, '401': {description: Generic login failure}}}}
+  /admin/posts: {get: {summary: List all posts (admin), security: [{cookieAuth: []}], responses: {'200': {description: List}, '401': {description: Unauthorized}}}}
+  /admin/timer: {put: {summary: Update implementation state (admin and CSRF token required), security: [{cookieAuth: []}], responses: {'200': {description: Updated}}}}
+  /admin/scraper/run: {post: {summary: Run monitoring (admin and CSRF token required), security: [{cookieAuth: []}], responses: {'200': {description: Results}}}}
+components:
+  securitySchemes: {cookieAuth: {type: apiKey, in: cookie, name: admin_token}}

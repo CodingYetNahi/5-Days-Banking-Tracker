@@ -1,0 +1,12 @@
+services:
+  tracker:
+    build: .
+    ports: ["3000:3000"]
+    env_file: .env
+    environment:
+      DATA_DIR: /app/data
+      NODE_ENV: production
+    volumes: ["tracker-data:/app/data"]
+    restart: unless-stopped
+volumes:
+  tracker-data:
