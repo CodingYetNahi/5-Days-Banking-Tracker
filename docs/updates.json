@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-11T12:44:09.674832+00:00",
+  "updatedAt": "2026-10-11T21:54:38.048682+00:00",
   "items": [
+    {
+      "date": "2026-01-05",
+      "type": "Automated news discovery",
+      "title": "Bank employees protest to demand 5-day week - The Times of India",
+      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVVZIZDVKVVNza0YwNHlhRl9hZkw4OFlVR3ZzSkh6akc1QmRQWHpJN0gxZjNWQUFyUHJsWUctUldINmVReVE2bjJZQWxUS3gxTWRfaW9udmt0MjFVOXdfUWoxdjdyTWttd0VMX0g0Y2JlTWJzUF9JeE9VYWxIOVNNTUxUX2E0OERtbkFfejFWTFMyWE9NbEd0SGtQNmphRmdLc2N3WVFjRkg1S0RxMTdlaHhLcnlmYnphNWlhOWdR0gHDAUFVX3lxTE9SSEl5d0hNNXl4Yk5hejRMdV9NYkVMMEZUMlNlMU5fZUNCOXdtNTlSbjF2d3BKVjBMc0V1TkZDSFJRVjVfSDFLNXc1Sk9pejQ5ZDg5dHFHempDMV9wOG8zYmFHNzNsTDdYeWhuNGhrc1U4d3MyenZTSWxqcExES25VMVBuTF94WTV5OEtCRzN2WGxvQVRUN21EWjhOcEpYUk9FMi10Uk1ZRUNHR3JZMUJOU3M4aWs2aWtSWElIaDdLNllzRQ?oc=5"
+    },
+    {
+      "date": "2026-01-04",
+      "type": "Automated news discovery",
+      "title": "Bankers' unions demand a 5-day work week, announce all-India strike on January 27 - Upstox",
+      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
+      "source": "Upstox",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVGlQeTFnWjF3RnlaMmJ5Ny03ek8tUl9wSTlpWUJVZjZsX2RPVzZQUHNIaTk0UU1pWHVucmRiZDd6RXZZWWUyV2lVbGxnWTc3elVtOGtyYmJRT3hXaXZkVEtZeUxQUTJMaG84TVEwNWF2NEZCcW1yYkNPMWloOTh1Nm9ELXp6SEI1ZkJyTDlFakw3SnhGTGEta0RsZXhaN2tQcGZXSThXSDlIeWNwTm85Y2R3SGR2LUx4d3Iycko2UExPQk13VFIzM0pxeXktX0c1X1RuV0JHQXFWSjVQQ3IwdEdn?oc=5"
+    },
     {
       "date": "2026-09-11",
       "type": "Automated news discovery",
@@ -464,22 +480,6 @@
       "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
       "source": "outlookindia.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdS1HdVBfTU5nNG50X0JISGJidUpMOHp6bERDY0dMNUZDSHFRMlVfVnlNSGhrbjlKeXUzN0VTTWs1alVTV0pmOW5SdG8zRmtqNDVEdTlTRlVTYk12MlpkNmZESFZjdjZzbGp6U25WZ0FQbmIyT0lwMzhJaktvbm41QU1PUlhWX09QN0xFQlNvVkxDSl85UjZKcURlSW5zNWp1NWhlMFVkQXphUGNhTXU4SG1QVFBIQdIBwwFBVV95cUxQMkZUcVQxM2w1dG5CcjgwdldNVG8tM25rbmJQdDN0b3lRTTlPUlBnYjNTMzVtYmY0eTEtMWNaMGN2U3J1a0s4MXRrQU5mcG1EMFQ5ZjB6WkhQN1VNdDNHUE5oUURSYXdwTFlJWTUwSlctYmFsQ2xNMGU1Y2lpVjFkZXZfOTBBZjZaQUhDZVB4SXhsdzBqNElGdWwzLXNfQnpFbVR6aHVTZi1wRjdRakJSQmU3R2lnTVp6UDZMODlHREx6aWM?oc=5"
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Automated news discovery",
-      "title": "Bank strike: UFBU to go ahead with 3-day strike from September 28 over 5-day banking demand - cnbctv18.com",
-      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
-      "source": "cnbctv18.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWZPTGJuYWJtRlJqeERuYUV0OXFIVXdzUW95UC13MkFidUlQcS1UNnV5T0FvMzFlRHpLTFIwUHN6TXkwRXAwVm92aUhyV1lHcURGRlZ4TG5KMHR6TVVoTGVUREF5T1VoaU10UWZoenV0bmxRMlZqUnZ2UHpaUV9iY1pndEsyZFJEYTNORTZWdXpJY3ZzQzdIRjZQbDBrUzI2SlHSAacBQVVfeXFMTXdXcXYyeklpaldEUlNiUmhoZ0ZUaDlCZVBMQnJlOUJ2VHBXRXkxNTV6ZG1OR2xuMmI0Vk1Ib2x4d19UUExrUDIxeFhpaHM3Tk8xUXJrRW42NGNwV19Oa0xkbl8tWHZ6S0hBMURuT2RYV3Z0S1JsVzR1ZmlWR2gtalU0UEVMSlFmMDJsRHp5ei1fb3BQZFllRE1xLWd3eF9vMmJBSExPakE?oc=5"
-    },
-    {
-      "date": "2026-09-01",
-      "type": "Automated news discovery",
-      "title": "Bank unions to go on nationwide strike on Sep 11 over 5-day banking, other issues - psuwatch.com",
-      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
-      "source": "psuwatch.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2VURGlqcFFITVBodkgxMkM3cm9mdW5CNms1NU9Pc1VCNzdfOUlIcTUwM0VVNTFiRGVXMExVM0kzc1dCOE9hZWVuY1BuUlExY0YydVotS0w0TVo0OTdZcENMUExvTDhpZzc4aDhZalBxbGpnRnhzVWtYeVFza1VUUmdWLXhBZ25tWTJkU2pKSE5QMFhNUjJhUVJMaXI3eXJnSUhvSk84NzIteTdmZS1TdGx2b9IBwAFBVV95cUxOSW5BdHF6aDNCblFlMmVrZS05enp0VFVzdzFkdEEwYlI5dXQtYnJ2WUJzamVKM2doS2hLVFZGNHZRbUlOUDdJTk9YcWVZaTFmOWNTckxoTnpyTlpDVTl1WVFvT0U5TThWaEJ2WWEwSlEwVzZkY25wd1Zvc0NnVkZPNEVPeW5SdWowNW1XWTkzNXl5REJabW96am5wNFNwTkJKd0JvcjNXSXNQU0xaLUtlRTB3Q1IzbEQyTmxPdW9Qa3M?oc=5"
     }
   ]
 }
