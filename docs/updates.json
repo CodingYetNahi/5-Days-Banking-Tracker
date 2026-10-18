@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-10-17T20:32:58.821595+00:00",
+  "updatedAt": "2026-10-18T04:26:37.651119+00:00",
   "items": [
+    {
+      "date": "2026-09-02",
+      "type": "Automated news discovery",
+      "title": "Bank unions to go on nationwide strike on Sep 11 over 5-day banking, other issues - Daily Excelsior",
+      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
+      "source": "Daily Excelsior",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejBoc1F3VGJKYTIyaGFJWTVyOG5KZVM3MFpJa3JyRXBKTVJkZW5zX0swQkRfM3I0YzV1LVBhT1JCMl9sNjFHSW5JUHRRNUtHUjVicDI2VDI0MGJiZzFkQ0hWN0U2ZTFXLTk3NzhtMjEzZVZqQUs5aXJOejZkREs2SHg2U1l6ZzJpbl9yUUVOZUpqTDBCZzB5YXJYSzJXTWNBRkk5TGVEMVcwRFBXMTRvVmV30gG2AUFVX3lxTE05RVZuYk1fSXhNdHZmZGNfZDVEWkdlcUdQOXZrazVfcTZXTFR0RTJvbGkwaXhFamExMUVFUmJvSUtVOUxSdVZwajlxQzhsd0p0SmFHVDQtWEdPUEhQWDIteEF4SVBHSFkyOHdlSm9QbmNzU3psRk5GQVdZZjJ4Q2lxeGhLVnJaZDZQWHBxVHZWNzhpSmV1Wl9ldWtIcFNmczVqUXBTaDkwWXpGbDJiWl9lTGk5d3pR?oc=5"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "Automated news discovery",
+      "title": "3-Day Strike, 5-Day Banking, Sunday Duty, UFBU Guidelines, SBI Manager Death & More | Banking News - YouTube",
+      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
+      "source": "YouTube",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zQldicmN4bG0zMHFQN2l0cTcxY3ZsZFhnaTNiWGRTdS1iVkQ1cXBFTTNyb2l1VHhrQXp1aVVLd1UwWFIzd3JiSWJOSUMtMUYyc3IxQzdibGRnb0tG?oc=5"
+    },
     {
       "date": "2026-09-28",
       "type": "Automated news discovery",
@@ -464,22 +480,6 @@
       "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
       "source": "BusinessLine",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNjB1YlBzQk04WXVpSWtGVEF3amFRUzBsUEdvNjRlcjgyR0diOWlhM3BKOUZNejNuc2ZIOFR6T0lOd0F1MFV4OU94TGxEX2stYzhkZ2VESDNNVDE2cHJxM19KTjZPVk1ibE1aVHE5S096c1AwNDYxWW5iblEzbTBkejdaWFI0VWdSUnRHM00xZEFfZVhFRnRMQWw5aW9tOVNwcUttUGF0V0FYd1plWGhhX0w4X3NXbmVfNVg2ZFRXcUR3Y0I2dHhiVDJ4TU9tVDFiQWNTMl9XM3AwRTVjcDFCbHlzRE9DT3pTeGIzaFJGbVlMOGI4WGtHQVpxeVNnQdIBhAJBVV95cUxQVnIwaWhXMVNUV3lzSTFwZ2Y5cTRvRU5xdXVpNTV5d0RSVjRqdWowc1pDZkJCNUQycGlOaC1PemVsZUpONFMxa1hCOUlSTUUtTGhvazZkY0RWdzdLSThBT3l3N1FxemtBR0RTcVlaMUVqdGxIeUZKSlp0ckpfWnA5Vld4Tk9hUnZuQm1vLVFZdDhuLWVONEktbU1mejQ4S3JyTVRpZWhWaFhuSC1Ec0d5TEx2VklFbE9SUkN5WGU5ZWhUaUgtTi1WS0FOVGJ6MmNZcmxmTE9mVFkxaFdFZjVjRkI2elpJY3VFellRVHUtc2N4WktvOUJtcDRONVV5RXZWZGNzSQ?oc=5"
-    },
-    {
-      "date": "2026-09-22",
-      "type": "Automated news discovery",
-      "title": "Bank strike September 28-30: UFBU says 3-day strike to go ahead, no progress on 5-day banking - Moneycontrol.com",
-      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
-      "source": "Moneycontrol.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWWpfNV93SmlVbHgtNC1BRExoN2xTVnR2UmdUY3dYMFdKSlVvZG1kVzhpT3JTWHNCQnJkUVdMTjhiNVU1ZGxVODZOU01hRkZackhhLWRRWTJraFVOaHZKRG5ZU2Y3SGdLdEs4MHJGVkc1N0taczFVTjNwY3dtQjJBVlpfdC1QRGgwVnhfdFZ1Y3Q3cDBiU1A4OFQtR3lCSDdfSk9hbjMybWpIRzlLT3hSYk9mTnp6eTB2UGkyUDd3RW84dXdaWGNwUlhDWi1yYzFxS3FHdnBtX25BNlM5RHI4Ny0ya2pfYnQtS1V2U3hWRDhTNXV2RnlCVNIB_gFBVV95cUxNNkgtcmNId01uSmYxNkNrME4yY21pLUxBMjBLcXRFS0ZaRkszdmJ2UTdKZ3RMRVhMemhMUUFVeHhuS3hZSVNTVEFGVEIyZWd3YmUydHVOTFVpeTRJdHQ0TWlMZm5yeEFGSkg0QUdnTHZXbkxfb2dJUDJQQmNkcWpENjdrOUtNXzRaZmg3NVVJR28wd042a3VqYnBQV0hIRDZHRDhOWUNMQmpMckJMbUVkZ3dtck5OZXdxUFlPdEdzd1RvRVVxN0pScEFDa1djdGF4Q1p4a1JJS1ptZjlRVVdTSVcwOTVsaVBrLWJzamh0SmZBOUxmamNLV0gyQl9mUQ?oc=5"
-    },
-    {
-      "date": "2026-09-30",
-      "type": "Automated news discovery",
-      "title": "5-Day Banking: IBA Forms Panel on All-Saturday Holidays - Kalkine India",
-      "summary": "Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.",
-      "source": "Kalkine India",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmJ5SW9UWEk1RHM3UXRjcDVZM2s3eDRYZEd2T0dWYzdocDF3bnVRRVZnZWZPLTVsZWVvZVJwMGhNQ041bzRBUFNWX1lGM3I4dDZldm5lcF9qLWVMM0pRcjA4dTEzdjlDQ19FaFdZWUN0MGhtMkRKS1BTcV9VMlZiM2NiZXB2VU52MGhfbDh3R2l6OTNtZVJxSGh6RUVWeXZwMkZNY19kUklIUmxoX3RIZDFlZlZUZFdXUUxKNlVwVklxUUlTTzA0U3phM2R2UlZITVphT2FILWo2YVE?oc=5"
     }
   ]
 }
