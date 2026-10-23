@@ -4,7 +4,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 DATA = Path("docs/updates.json")
-QUERY = '"5 day banking" (IBA OR UFBU OR DFS OR bank strike) India'
+QUERY = '"Bank privatisation" (IBA OR UFBU OR DFS OR PSB ) India'
 url = "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q": QUERY, "hl": "en-IN", "gl": "IN", "ceid": "IN:en"})
 request = urllib.request.Request(url, headers={"User-Agent": "5-Day-Banking-Tracker/1.0"})
 existing = json.loads(DATA.read_text(encoding="utf-8"))
@@ -23,7 +23,7 @@ for node in root.findall("./channel/item"):
         continue
     try: date = parsedate_to_datetime(node.findtext("pubDate") or "").date().isoformat()
     except Exception: date = datetime.now(timezone.utc).date().isoformat()
-    fresh.append({"date":date,"type":"Automated news discovery","title":title,"summary":"Automatically collected public report about five-day banking. Open the source for full context; this entry does not confirm implementation.","source":source,"url":link})
+    fresh.append({"date":date,"type":"Automated news discovery","title":title,"summary":"Automatically collected public report about privatisation of Public Sector Banks. Open the source for full context; this entry does not confirm implementation.","source":source,"url":link})
 payload={"updatedAt":datetime.now(timezone.utc).isoformat(),"items":(fresh+existing.get("items",[]))[:60]}
 DATA.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print(f"Added {len(fresh)} new update(s)")
